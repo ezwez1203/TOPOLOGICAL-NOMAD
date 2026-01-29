@@ -50,7 +50,7 @@ SHAP 분석 결과, 악성 유목의 가장 큰 원인은 **'총 내원 일수(C
 
 ---
 
-## 👨‍💻 Team Permillion
+## 👨‍💻 Team Hound
 * **Hwang Dohyun:** Pipeline Developer, Theoretical Proposer
 * **Eunho Choi:** Pipeline Architect
 * **Taewook Kim:** Pipeline Data Auditor
