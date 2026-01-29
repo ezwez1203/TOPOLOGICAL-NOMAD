@@ -51,10 +51,11 @@ SHAP 분석 결과, 악성 유목의 가장 큰 원인은 **'총 내원 일수(C
 ---
 
 ## 👨‍💻 Team Permillion
-* **Lucius (Hwang Dohyun):** Pipeline QA, TDA Optimization
+* **Hwang Dohyun:** Pipeline Developer, Theoretical Proposer
 * **Eunho Choi:** Pipeline Architect
+* **Taewook Kim:** Pipeline Data Auditor
 * **Taekhoon Kim:** Benchmark Analyst
-* **Minhyeong Jo:** Data Auditor
+* **Minhyeong Jo:** Baseline Data Auditor
 
 ---
 *Created for HIRA Industry-Academic Project 2026*
