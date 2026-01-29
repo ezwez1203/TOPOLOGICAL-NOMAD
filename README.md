@@ -43,7 +43,7 @@ SHAP 분석 결과, 악성 유목의 가장 큰 원인은 **'총 내원 일수(C
 ---
 
 ## 🛠️ 분석 파이프라인 (Pipeline)
-1.  **Data Ingestion:** HIRA 청구 데이터 (T200, T300, T400, T530)
+1.  **Data Ingestion:** HIRA 청구 데이터 (EDU200,EDU300, EDU400, EDU530)
 2.  **Preprocessing:** **NES v2.0** 지수 산출 및 **Shadow Tracking** (비급여 추적)
 3.  **TDA Modeling:** KeplerMapper를 이용한 진료 여정 지도 구축
 4.  **Prediction:** XGBoost Classifier & SHAP Interpretation
